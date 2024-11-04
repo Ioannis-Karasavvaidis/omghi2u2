@@ -19,7 +19,7 @@ end
 gem "wdm", "~> 0.2.0", :install_if => Gem.win_platform?
 
 # Jekyll <= 4.2.0 compatibility with Ruby 3.0
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.9"
 
 gem 'thor'
 gem 'stringex'
